@@ -1,0 +1,14 @@
+Change Footprint: Cannot match pads with new footprint in component :C2 Footprint:DIOAD780W78L463D236
+Change Component Comment : Designator=C4 Old Comment=0.1uF New Comment=0.1uF 16 V
+Change Component Comment : Designator=C2 Old Comment=10uF New Comment=10uF 16 V
+Change Component Comment : Designator=C5 Old Comment=10uF New Comment=10uF 25V
+Change Component Comment : Designator=C1 Old Comment=100uF New Comment=100uF 16V
+Change Component Comment : Designator=C3 Old Comment=680uF New Comment=680uF 50V
+Add Component: Footprint Not Found IND_HCTI-33-11.7
+Add Pin To Net: Unknown Pin: Pin C4-N
+Add Pin To Net: Unknown Pin: Pin C4-P
+Add Pin To Net: Unknown Pin: Pin C5-N
+Add Pin To Net: Unknown Pin: Pin C5-P
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Class Member: Failed to add class member : Component L1 33uF

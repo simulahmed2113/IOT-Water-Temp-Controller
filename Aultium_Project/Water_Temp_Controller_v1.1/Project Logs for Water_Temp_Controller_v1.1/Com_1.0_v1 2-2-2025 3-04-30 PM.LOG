@@ -1,0 +1,51 @@
+Change Component Footprint: Designator=K1 Old Footprint=FP-G5LE-14-DC5-MFG New Footprint=FP-G5LE-14-DC5-MFG
+Change Component Footprint: Designator=Q1 Old Footprint=FP-JAN2N2222A-MFG New Footprint=FP-JAN2N2222A-MFG
+Change Component Footprint: Designator=C1 Old Footprint=FP-RAD-TH-D_6_3_0_5-L_7_1-MFG New Footprint=FP-RAD-TH-D_6_3_0_5-L_7_1-MFG
+Change Component Footprint: Designator=U2 Old Footprint=LTST-LTV-817-4 New Footprint=LTST-LTV-817-4
+Change Component Footprint: Designator=R1 Old Footprint=RESA60-630X240 New Footprint=RESA60-630X240
+Change Component Footprint: Designator=R2 Old Footprint=RESA60-630X240 New Footprint=RESA60-630X240
+Change Component Footprint: Designator=R3 Old Footprint=RESA60-630X240 New Footprint=RESA60-630X240
+Change Component Footprint: Designator=R4 Old Footprint=RESA60-630X240 New Footprint=RESA60-630X240
+Change Component Footprint: Designator=R5 Old Footprint=RESA60-630X240 New Footprint=RESA60-630X240
+Change Component Footprint: Designator=R6 Old Footprint=RESA60-630X240 New Footprint=RESA60-630X240
+Change component parameters: Designator = "C1" ("C1"); Footprint = "FP-RAD-TH-D_6_3_0_5-L_7_1-MFG"; UniqueID = "\RRFYHVDJ" ("\RRFYHVDJ")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "100uF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "New link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Diameter"; Value = "6.3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height - Seated (Max)"; Value = "0.315inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Diameter"; Value = "0.45mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Pitch"; Value = "2.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "7mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Life (Hours)"; Value = "1000Hour"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Polarity"; Value = "Polar"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Ripple Current"; Value = "91mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "KA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Radial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "16V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "16V"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found CAPPRD750W80D1600H2200
+Add Component: Footprint Not Found IND_HCTI-33-11.7
+Add Pin To Net: Unknown Pin: Pin C2-N
+Add Pin To Net: Unknown Pin: Pin C2-P
+Add Pin To Net: Unknown Pin: Pin C3-N
+Add Pin To Net: Unknown Pin: Pin C3-P
+Add Pin To Net: Unknown Pin: Pin C4-N
+Add Pin To Net: Unknown Pin: Pin C4-P
+Add Pin To Net: Unknown Pin: Pin C5-N
+Add Pin To Net: Unknown Pin: Pin C5-P
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Class Member: Failed to add class member : Component C3 680uF 50V
+Add Class Member: Failed to add class member : Component L1 33uF

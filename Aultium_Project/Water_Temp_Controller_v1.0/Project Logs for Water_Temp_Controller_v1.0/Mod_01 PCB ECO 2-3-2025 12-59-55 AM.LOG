@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=Q1 Old Footprint=FP-JAN2N2222A-MFG New Footprint=FP-JAN2N2222A-MFG
+Added Component: Designator=U1(XCVR_ESP32-S3-DEVKITC-1-N8R2)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ESP32-S3-DEVKITC-1-N8R2/Espressif+Systems/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-S3-DEVKITC-1-N8R2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32-S3-DEVKITC-1-N8R2/Espressif+Systems/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=temp_sensor Pin=U1-J1_4
+Added Pin To Net: NetName=relay Pin=U1-J1_5
+Added Pin To Net: NetName=+5 Pin=U1-J1_21
+Added Pin To Net: NetName=GND Pin=U1-J1_22
+Added Pin To Net: NetName=GND Pin=U1-J3_1
+Added Pin To Net: NetName=GND Pin=U1-J3_21
+Added Pin To Net: NetName=GND Pin=U1-J3_22
+Added Member To Class: ClassName=Mod_01 Member=Component U1 ESP32-S3-DEVKITC-1-N8R2

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=relay Pin=U1-J1_14
+Removed Pin From Net: NetName=temp_sensor Pin=U1-J3_15
+Added Pin To Net: NetName=relay Pin=U1-J1_4
+Added Pin To Net: NetName=temp_sensor Pin=U1-J1_5

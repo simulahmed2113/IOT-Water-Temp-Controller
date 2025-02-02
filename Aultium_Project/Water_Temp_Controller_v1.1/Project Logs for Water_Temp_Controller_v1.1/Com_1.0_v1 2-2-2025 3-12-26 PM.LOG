@@ -1,0 +1,23 @@
+Add Component: Footprint Not Found CAPPRD750W80D1600H2200
+Added Component: Designator=L1(33uF TH  Radial)
+Add component (AddParameter): Name = "Arrow_Electronics-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Electronics&id=1645904"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Availability"; Value = "Bad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Signal Transformer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=1645904"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "HCTI-33-11.7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial Bel Fuse"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/HCTI-33-11.7/Signal%20Transformer/view-part/1645904/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C2-N
+Add Pin To Net: Unknown Pin: Pin C2-P
+Add Pin To Net: Unknown Pin: Pin C3-N
+Add Pin To Net: Unknown Pin: Pin C3-P
+Add Pin To Net: Unknown Pin: Pin C4-N
+Add Pin To Net: Unknown Pin: Pin C4-P
+Add Pin To Net: Unknown Pin: Pin C5-N
+Add Pin To Net: Unknown Pin: Pin C5-P
+Added Pin To Net: NetName=NetD4_C Pin=L1-1
+Added Pin To Net: NetName=+5 Pin=L1-2
+Add Class Member: Failed to add class member : Component C3 680uF 50V
+Added Member To Class: ClassName=temp_controller_01 Member=Component L1 33uF

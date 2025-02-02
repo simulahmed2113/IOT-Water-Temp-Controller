@@ -1,0 +1,75 @@
+Change Component Footprint: Designator=K1 Old Footprint=FP-G5LE-14-DC5-MFG New Footprint=FP-G5LE-14-DC5-MFG
+Change Component Footprint: Designator=Q1 Old Footprint=FP-JAN2N2222A-MFG New Footprint=FP-JAN2N2222A-MFG
+Change Component Footprint: Designator=C1 Old Footprint=FP-RAD-TH-D_6_3_0_5-L_7_1-MFG New Footprint=FP-RAD-TH-D_6_3_0_5-L_7_1-MFG
+Change Component Footprint: Designator=U2 Old Footprint=LTST-LTV-817-4 New Footprint=LTST-LTV-817-4
+Change Component Footprint: Designator=R1 Old Footprint=RESA60-630X240 New Footprint=RESA60-630X240
+Change Component Footprint: Designator=R2 Old Footprint=RESA60-630X240 New Footprint=RESA60-630X240
+Change Component Footprint: Designator=R3 Old Footprint=RESA60-630X240 New Footprint=RESA60-630X240
+Change Component Footprint: Designator=R4 Old Footprint=RESA60-630X240 New Footprint=RESA60-630X240
+Change Component Footprint: Designator=R5 Old Footprint=RESA60-630X240 New Footprint=RESA60-630X240
+Change Component Footprint: Designator=R6 Old Footprint=RESA60-630X240 New Footprint=RESA60-630X240
+Added Component: Designator=C2(CAPPRD750W80D1600H2200)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/EEU-FR1E221B/Panasonic/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EEU-FR1E221B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RADIAL-2 Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/EEU-FR1E221B/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EEU-FR1E221B/Panasonic/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAPPRD750W80D1600H2200)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/UPM1H681MHD6TN/Nichicon/view-part/2333680/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nichicon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "UPM1H681MHD6TN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Radial Nichicon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/UPM1H681MHD6TN/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/UPM1H681MHD6TN/Nichicon/view-part/2333680/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C4(22uF 25V cap TH CNC)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/EEU-FR1E221B/Panasonic/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EEU-FR1E221B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RADIAL-2 Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/EEU-FR1E221B/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EEU-FR1E221B/Panasonic/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C5(0,1uF 25V cap TH CNC)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/EEU-FR1E221B/Panasonic/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "EEU-FR1E221B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "RADIAL-2 Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/EEU-FR1E221B/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/EEU-FR1E221B/Panasonic/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D4(DIOAD1898W129L762D1143)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Microsemi Corporation"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1N5824"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Axial Microsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1N5824/Microsemi%20Corporation/view-part/49055/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C2-N
+Added Pin To Net: NetName=+5 Pin=C2-P
+Added Pin To Net: NetName=GND Pin=C3-N
+Added Pin To Net: NetName=+12 Pin=C3-P
+Add Pin To Net: Unknown Pin: Pin C4-N
+Add Pin To Net: Unknown Pin: Pin C4-P
+Add Pin To Net: Unknown Pin: Pin C5-N
+Add Pin To Net: Unknown Pin: Pin C5-P
+Added Pin To Net: NetName=GND Pin=D4-A
+Added Pin To Net: NetName=NetD4_C Pin=D4-C
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Added Member To Class: ClassName=temp_controller_01 Member=Component C2 10uF
+Added Member To Class: ClassName=temp_controller_01 Member=Component C3 680uF
+Added Member To Class: ClassName=temp_controller_01 Member=Component C4 0.1uF
+Added Member To Class: ClassName=temp_controller_01 Member=Component C5 10uF
+Added Member To Class: ClassName=temp_controller_01 Member=Component D4 1N5824

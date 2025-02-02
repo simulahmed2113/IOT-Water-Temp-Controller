@@ -1,0 +1,25 @@
+Added Component: Designator=J1(NINIGI_DC-005)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "DC-005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q1(FP-JAN2N2222A-MFG)
+Add Component: Footprint Not Found ESP32-S3-DEVKITC-1-N8R2
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=+12 Pin=J1-4
+Added Pin To Net: NetName=NetM1_3 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=+5 Pin=Q1-3
+Add Pin To Net: Unknown Pin: Pin U1-J1_4
+Add Pin To Net: Unknown Pin: Pin U1-J1_5
+Add Pin To Net: Unknown Pin: Pin U1-J1_21
+Add Pin To Net: Unknown Pin: Pin U1-J1_22
+Add Pin To Net: Unknown Pin: Pin U1-J3_1
+Add Pin To Net: Unknown Pin: Pin U1-J3_21
+Add Pin To Net: Unknown Pin: Pin U1-J3_22
+Added Member To Class: ClassName=Mod_01 Member=Component J1 DC-005
+Added Member To Class: ClassName=Mod_01 Member=Component Q1 2N2222
+Add Class Member: Failed to add class member : Component U1 ESP32-S3-DEVKITC-1-N8R2

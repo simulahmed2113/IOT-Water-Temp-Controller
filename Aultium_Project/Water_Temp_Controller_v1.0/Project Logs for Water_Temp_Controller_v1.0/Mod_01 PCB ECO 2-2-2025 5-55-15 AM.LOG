@@ -1,0 +1,32 @@
+Change Component Footprint: Designator=Q1 Old Footprint=FP-JAN2N2222A-MFG New Footprint=FP-JAN2N2222A-MFG
+Change Component Footprint: Designator=R1 Old Footprint=RESA60-630X240 New Footprint=RESA60-630X240
+Change Component Footprint: Designator=R2 Old Footprint=RESA60-630X240 New Footprint=RESA60-630X240
+Change Component Footprint: Designator=R3 Old Footprint=RESA60-630X240 New Footprint=RESA60-630X240
+Added Component: Designator=M1(Relay Mod1)
+Added Component: Designator=M2(LM2596 Mod)
+Added Component: Designator=U1(ESP32-S3-DEVKITC-1-N8R2)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ESP32-S3-DEVKITC-1-N8R2/Espressif+Systems/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-S3-DEVKITC-1-N8R2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32-S3-DEVKITC-1-N8R2/Espressif+Systems/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=temp_sensor Pin=M1-1
+Added Pin To Net: NetName=GND Pin=M1-2
+Added Pin To Net: NetName=NetM1_3 Pin=M1-3
+Added Pin To Net: NetName=heater Pin=M1-4
+Added Pin To Net: NetName=+12 Pin=M1-5
+Added Pin To Net: NetName=+12 Pin=M2-1
+Added Pin To Net: NetName=GND Pin=M2-2
+Added Pin To Net: NetName=GND Pin=M2-3
+Added Pin To Net: NetName=temp_sensor Pin=M2-4
+Added Pin To Net: NetName=temp_sensor Pin=U1-J1_14
+Added Pin To Net: NetName=temp_sensor Pin=U1-J1_21
+Added Pin To Net: NetName=GND Pin=U1-J1_22
+Added Pin To Net: NetName=GND Pin=U1-J3_1
+Added Pin To Net: NetName=relay Pin=U1-J3_15
+Added Pin To Net: NetName=GND Pin=U1-J3_21
+Added Pin To Net: NetName=GND Pin=U1-J3_22
+Added Member To Class: ClassName=Mod_01 Member=Component M1 Relay Mod
+Added Member To Class: ClassName=Mod_01 Member=Component M2 LM2596
+Added Member To Class: ClassName=Mod_01 Member=Component U1 ESP32-S3-DEVKITC-1-N8R2
